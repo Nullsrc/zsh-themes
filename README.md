@@ -1,10 +1,12 @@
-#Nullterm Oh-my-zsh Theme
+#Nullterm
+
 
 Nullterm is a theme written for Oh-my-zsh
 ![Nullterm](/screenshots/nullterm.png?raw=true)
 
 
-#Nullterm's Features:
+#Features
+
 
 | Always shown | Contextually shown |
 |:---------------|-------------------:|
@@ -18,8 +20,13 @@ Note that to use the git info, git status, and vi-mode indicators, the respectiv
 
 #Installing Nullterm
 
+
 To install nullterm, copy the `nullterm.zsh-theme` file into your custom themes directory.
-e.g, on Linux, this directory can be found at `~/.oh-my-zsh/custom/`
+
+For example, on Linux, this directory can be found at `~/.oh-my-zsh/custom/`
+
 Once the file has been moved, open your `.zshrc` file and look for a line that looks like `ZSH_THEME="the_theme"`
+
 Change that line to `ZSH_THEME="nullterm"`, save the file, and close it.
+
 Restart the shell.

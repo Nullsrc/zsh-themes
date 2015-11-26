@@ -1,4 +1,4 @@
-PROMPT='%{$fg[yellow]%}╭──[%n@%m] %{$fg[cyan]%}[%D{%L:%M}] %{$fg[green]%}[%c] $(git_prompt_info)$(git_prompt_status)
+PROMPT='%{$fg[yellow]%}╭──[%n@%m] %{$fg[cyan]%}[%D{%L:%M}] %{$fg[green]%}[%~] $(git_prompt_info)$(git_prompt_status)
 %{$fg[yellow]%}╰─➤➤ %{$fg[red]%}%(?..<<%?>> %{$fg[yellow]%})%{$reset_color%}'
 
 ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg[yellow]%}→ git:%{$fg[cyan]%}"
