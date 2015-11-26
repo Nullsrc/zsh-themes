@@ -1,6 +1,7 @@
 #Nullsrc's oh-my-zsh Theme
 
 Nullterm is a theme written for Oh-my-zsh
+![Nullterm](/screenshots/nullterm.png?raw=true)
 
 
 #Nullterm's features:
