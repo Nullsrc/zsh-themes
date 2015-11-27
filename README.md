@@ -7,7 +7,6 @@ Nullterm is a theme written for Oh-my-zsh
 #Nullterm's Features:
 
 | Always shown | Contextually shown |
----------------|--------------------- |
 |:---------------|-------------------:|
 | username@hostname | git information |
 | time in HH:MM | git status |
