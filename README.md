@@ -15,6 +15,20 @@ Nullterm is a theme written for Oh-my-zsh
 | current directory | return codes |
 | 		| vi-mode indicator |
 
+
+##Git Info/Status Explanation
+
+Nullterm uses a dual git_info and git_status system to display the status of a git repository. For brevity, various symbols and colors were used. For clarity, they are explained below
+
+| Symbol[Color] | Meaning |
+|:--------------|--------:|
+| `●` [Green] | The working directory is clean |
+| `●` [Red] | The working directory is dirty (has uncommitted changes) |
+| `●` [Yellow] | There are files added and ready to be committed |
+| `+` [Yellow] | There are untracked files |
+| `-` [Yellow] | Previously tracked files have been deleted |
+| `!` [Yellow] | Currently tracked files have been modified |
+
 Note that to use the git info, git status, and vi-mode indicators, the respective plugins must be enabled in your `.zshrc` file. The plugins are`git` and `vi-mode`
 
 
