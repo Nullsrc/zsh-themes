@@ -44,3 +44,8 @@ Once the file has been moved, open your `.zshrc` file and look for a line that l
 Change that line to `ZSH_THEME="nullterm"`, save the file, and close it.
 
 Restart the shell.
+
+
+#ASCII Nullterm
+
+The `nullterm_ascii` file contains a version of the nullterm theme that uses ASCII-only characters. Use it if you like the theme  but live in a prompt that doesn't support UTF-8
