@@ -49,3 +49,8 @@ Restart the shell.
 #ASCII Nullterm
 
 The `nullterm_ascii` file contains a version of the nullterm theme that uses ASCII-only characters. Use it if you like the theme  but live in a prompt that doesn't support UTF-8
+
+
+#Minimal Nullterm
+
+The `nullminimal` file is a minimalist theme that displays the current working directory and whether the directory is a dirty git repository. No other information is displayed.
