@@ -26,7 +26,7 @@ which lives in the `nullterm_ascii` file. It looks like this:
 
 ![ASCII Nullterm](/screenshots/nullterm_ascii.png?raw=true)
 
-###I like t, but it's too bloated!
+###I like it, but it's too bloated!
 
 If you feel like it's a bit too expansive for your tastes, consider using the
 compact version, which lives in the `nullcompact` file. It looks like this:
