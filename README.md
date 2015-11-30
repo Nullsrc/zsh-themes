@@ -1,7 +1,7 @@
 #Nullsrc's oh-my-zsh Themes
 
 This is a collection of my custom oh-my-zsh themes. Currently, the themes are
-`nullterm`, `nullterm_ascii`, `nullcompact`, and `minimal`.
+`nullterm`, `nullterm_ascii`, `nullcompact`, `nullright`, and `minimal`.
 
 ##Nullterm
 
@@ -71,6 +71,6 @@ directory of your `.oh-my-zsh` folder. In Linux, this can be found at
 
 To enable the theme, open the `.zshrc` file and locate the line that reads
 `ZSH_THEME=another_theme`. Change `another_theme` to `nullterm`,
-`nullterm_ascii`, `nullcompact`, or `nullminimal`, depending on which theme you
+`nullterm_ascii`, `nullcompact`, `nullright` or `nullminimal`, depending on which theme you
 wish to use. From there, simply restart your shell (or logout) to have the
 theme take effect.
