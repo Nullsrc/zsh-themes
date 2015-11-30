@@ -42,6 +42,12 @@ prompt-y character). This theme lives in the `nullminimal` file.
 
 ![Minimal](/screenshots/nullminimal.png?raw=true)
 
+##RPrompt
+
+RPrompt is a theme that gives information on the right side of the screen, so
+that you can more easily identify the commands that you are using. This theme
+lives in the `nullright` file.
+
 
 #Installation
 ##Prerequisites
