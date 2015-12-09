@@ -50,6 +50,14 @@ lives in the `nullright` file.
 
 ![RPrompt](/screenshots/nullright.png?raw=true)
 
+##Parenthetical
+
+Parenthetical is a rather mundane prompt. You may like the nice "round" feeling
+of the theme. Directory on the left; git info, time, and host on the right. Nice
+and clean for when you just want to be a normal poweruser. Parenthetical lives
+in the `nullparen` file.
+
+![Parenthetical](/screenshots/nullparen.png?raw=true)
 
 #Installation
 ##Prerequisites
